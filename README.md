@@ -4,7 +4,8 @@
 https://youtu.be/UuaR92Jk1yQ
 
 
-Companion Connector PCB for your Benchtop Power Supply
+Companion Connector PCB for your Benchtop Power Supply.
+
 Turret Post I like: DigiKey P/N 501-1316-ND
 
 [BoM coming soon]
