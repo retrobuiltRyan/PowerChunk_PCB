@@ -3,7 +3,7 @@
 
 https://youtu.be/UuaR92Jk1yQ
 
-Companion Connector PCB for your Benchtop Power Supply.
+Companion Connector PCB for your benchtop power supply.
 
 BoM (just the chunky connectors)
 
